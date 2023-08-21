@@ -4,7 +4,7 @@ const app = fastify()
 
 
 app.get('/hello', () => {
-  return 'Hello World'
+  return 'Hello New Dev Branch'
 })
 
 
