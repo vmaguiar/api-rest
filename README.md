@@ -4,7 +4,7 @@
 
 A CRUD powered backend server with a TypeScript database. Made using NodeJS<br>
 
-project to develop a REST API, a web service using nodeJS and TypeScript, working with database and automated tests and deployment configuration
+project to develop a REST API, a web service using nodeJS and TypeScript, working with database and automated tests and deployment configuration.
 <br>
 
 
